@@ -1,0 +1,18 @@
+﻿Name: Caitlin Lopez
+Date: September 22, 2022 (Thursday 2:15)
+Title: Lab1
+Description: These are my observations for each part of the lab
+
+
+Step 1
+* only outputs the user that is currently logged in, but not anything calculating the rectangle area
+
+
+Step 2
+* changed user to be myself so the code works properly
+* after saying hi to the user, the program asks the user to input the height and width for the rectangle
+* the program outputs the calculation and allows the user to calculate the area for another rectangle or exit
+
+
+Step 3
+* same input and output as step 2, with the addition of asking for the radius of the circle and then outputting the area of the circle as well, which uses the calculator bc to include pi
