@@ -1,0 +1,31 @@
+﻿Name: Caitlin Lopez
+Date: October 6, 2022 (Thursday 2:15)
+Title: Lab 2
+Description: These are my observations for each part of the lab
+
+
+Step 1, 2, & 3
+* Returns “Segmentation fault (core dumped)”
+   * this is because you’re running the program without passing in the input it needs
+
+
+Step 4
+* The delay of 500 makes the output print faster and 5000 makes it slower
+
+
+Step 5
+* printed:
+   *  parent id: 23577
+      child id: 23578 ; parent id: 23577
+      child id: 23580 ; parent id: 1
+      child id: 23581 ; parent id: 1
+      child id: 23579 ; parent id: 1
+      child id: 23585 ; parent id: 1
+      child id: 23586 ; parent id: 1
+
+Step 6
+   * printed threads 0-5, then 0-49, then 6-99, and then 73-99
+
+
+Step 7
+   * printed all of file names within my lab2 folder
