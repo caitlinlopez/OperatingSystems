@@ -1,0 +1,32 @@
+﻿Name: Caitlin Lopez
+Date: October 13, 2022 (Thursday 2:15)
+Title: Lab 3
+Description: These are my observations for part 6 of the lab
+
+
+* 10 threads are created
+* the values of i that are passed are from 0 to 9
+* threads may print the same values of i because two separate for loops are both using the same int i variable
+* output:
+
+Hello from thread -1925421312 with iteration 2
+Hello from thread -1917028608 with iteration 1
+Thread 0 returned
+Thread 1 returned
+Thread 2 returned
+Hello from thread -1975777536 with iteration 2
+Hello from thread -1933814016 with iteration 3
+Hello from thread -1942206720 with iteration 4
+Thread 3 returned
+Thread 4 returned
+Hello from thread -1984170240 with iteration 4
+Hello from thread -1950599424 with iteration 4
+Thread 5 returned
+Hello from thread -1967384832 with iteration 1
+Hello from thread -1992562944 with iteration 5
+Hello from thread -1958992128 with iteration 5
+Thread 6 returned
+Thread 7 returned
+Thread 8 returned
+Thread 9 returned
+Main thread done.
